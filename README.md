@@ -5,7 +5,7 @@ We want to teach the neural network to distinguish man and woman. The results ar
 
  Man            |  Woman
 :-------------------------:|:-------------------------:
-![](images\man.png)  |  ![](images\woman.png)
+![](https://github.com/shurikkuzmin/GenderClassification/blob/master/images/man.png)  |  ![](https://github.com/shurikkuzmin/GenderClassification/blob/master/images/woman.png)
 
 ## Prerequisites
 The following prerequisites need to be installed:
@@ -19,7 +19,7 @@ The following prerequisites need to be installed:
 There were two models used: one is close to AlexNet architecture, another one is close to VGGNet (MiniVGGNet). The two models are supplied with weights which you can use by keras.loadmodel method (alexnet33.hdf5 and minivggnet10.hdf5).
  AlexNet             |  MiniVGGNet
 :-------------------------:|:-------------------------:
-![](images\alexnet.png)  |  ![](images\minivggnet.png)
+![](https://github.com/shurikkuzmin/GenderClassification/blob/master/images/alexnet.png)  |  ![](https://github.com/shurikkuzmin/GenderClassification/blob/master/images/minivggnet.png)
 
 ## Datasets
 There are multiple datasets available in Kaggle. You can use one of them.
